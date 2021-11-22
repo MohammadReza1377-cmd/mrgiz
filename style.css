@@ -1,4 +1,4 @@
-#shohratbaz{
+/* #shohratbaz{
     opacity: 0.6;
 }
 .akbar{
@@ -6,13 +6,20 @@
     border-radius: 50%;
     background: green;
 
-}
-.asgar{
+} */
+div.asgar{
     border: 5px solid green;
     border-radius: 10px;
     background: red;
 
 }
+article.asgar{
+    border: 5px solid green;
+    border-radius: 10px;
+    background: red;
+
+}
+
 .kahe{
     width: 100px;
     height: 100px;
