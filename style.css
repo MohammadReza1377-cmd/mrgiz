@@ -7,7 +7,7 @@
     background: green;
 
 } */
-div.asgar{
+/* div.asgar{
     border: 5px solid green;
     border-radius: 10px;
     background: black;
@@ -18,16 +18,18 @@ article.asgar{
     border-radius: 10px;
     background: red;
 
-}
+} */
 
 .kahe{
     width: 100px;
     height: 100px;
-    box-shadow: 0 0 10px black;
     border: 5px solid black;
     padding: 20px;
     margin: 10px;
     color: white;
     text-align: center;
     font-size: 24px;
+}
+.kahe{
+    box-shadow: 0 0 10px black;
 }
