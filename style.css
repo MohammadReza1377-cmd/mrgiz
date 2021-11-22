@@ -1,9 +1,11 @@
 .akbar{
+    border: 5px solid black;
     border-radius: 50%;
     background: green;
 
 }
 .asgar{
+    border: 5px solid green;
     border-radius: 10px;
     background: red;
 
